@@ -1,0 +1,46 @@
+the queries we experiment 
+1. machine learning
+    originally the top result is a text file, after add pagerank, the result has more link
+2. computer science
+3. software engineering 
+4. virtual reality
+5. acm
+6. lkjsfaasdnasd (we want to see what is search engine's response to meaningless string)
+7.  (handle empty query)
+8. how hard is it to change to computer science 
+    (our search engine need a long time to handle long query,therefore we shorten the number of url for comparison)
+    our search engine also don't have the ability to process natural language query well 
+9. engineering software 
+    we don't have the time to implement the position of token in a document
+10. ics 
+    without pagerank: 
+    type your query here: ics
+    https://www.ics.uci.edu/~eppstein/pubs/pubs.ff
+    https://www.ics.uci.edu/~taylor/ics126/wq99_syllabus.html#computing
+    https://www.ics.uci.edu/~eppstein/pubs/all.html
+    https://www.ics.uci.edu/ugrad/sao/Course_updates.php
+    https://www.ics.uci.edu/ugrad/sao/Course_updates
+
+    with pagerank: 
+    type your query here: ics
+    https://www.ics.uci.edu/community/news/
+    https://www.ics.uci.edu/~eppstein/pubs/pubs.ff
+    https://www.ics.uci.edu/~taylor/ics126/wq99_syllabus.html#computing
+    https://www.ics.uci.edu/~eppstein/pubs/all.html
+
+
+11. informatic and computer science 
+    (and introduce many useless page, we just ignore the stop word in query)
+    (however a better way would be recognize the boolean expression in query, however we don't have time to implement that)
+12. hardest cs class
+13. 2023 ics course schedule
+14. graduation requirement 
+15. back propagation algorithm 
+16. ics student council 
+17. ics ics ics ics ics ics
+18. ics open lab 
+19. 121 information retrieval 
+20. brandywine 
+    (this should be outside of ics content)
+    retrun empty
+    
